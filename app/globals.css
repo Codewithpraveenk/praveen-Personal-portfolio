@@ -58,3 +58,5 @@
 .technology-tags span{padding:8px 12px;border:1px solid #304263;border-radius:6px;background:#142139;color:#c1d5f6;font-size:14px;line-height:1.4}
 @media(max-width:640px){.skill-cards{grid-template-columns:1fr}.skill-cards article{padding:24px}}
 .project-links{display:flex;align-items:center;gap:22px;flex-wrap:wrap;margin-top:24px}.project-overview .project-links .primary{margin:0}.resume-badge{font-size:11px;border:1px solid #34445e;border-radius:4px;padding:3px 6px;color:#a5b5cf}.hero-actions{flex-wrap:wrap}.hero-actions .text-link{flex-wrap:wrap}
+
+.spendwise-project{margin-top:32px}
