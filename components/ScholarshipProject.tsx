@@ -4,7 +4,7 @@ export default function ScholarshipProject() {
   return (
     <article className="project featured-project scholarship-project" id="scholarpath">
       <div className="project-overview">
-        <p className="eyebrow">03 / FULL STACK PROJECT</p>
+        <p className="eyebrow">02 / FULL STACK PROJECT</p>
         <GraduationCap size={48} strokeWidth={1}/>
         <h3>ScholarPath<span>.</span></h3>
         <p>A student scholarship eligibility application that makes funding requirements easier to understand.</p>
